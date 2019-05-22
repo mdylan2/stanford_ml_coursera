@@ -1,4 +1,4 @@
-# stanford_ml_coursera
+# Andrew Ng Machine Learning Course
 ### Author: Dylan Mendonca
 
 This repository contains programming exercises for Andrew Ng's Machine Learning course on Coursera. All the assignments were done on Octave.
